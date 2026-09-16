@@ -1,5 +1,7 @@
 # turnover-cost-analytics
 
+![CI](https://github.com/IngridASilva/turnover-cost-analytics/actions/workflows/ci.yml/badge.svg)
+
 Modelo calibrado de propensão de saída voluntária cruzado com o custo
 financeiro de perder cada pessoa, entregando uma lista de acionamento onde o
 limiar de corte é individual.

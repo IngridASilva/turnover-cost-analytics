@@ -1,0 +1,5 @@
+modelo,AUC-ROC,AUC-PR,Brier,lift decil 1,prevalência
+xgboost,0.6873,0.1382,0.05475,2.4,0.0592
+xgboost_calibrado,0.6873,0.1382,0.05441,2.4,0.0592
+logistica,0.7069,0.1378,0.05432,2.35,0.0592
+logistica_calibrada,0.7069,0.1378,0.05415,2.35,0.0592

@@ -1,0 +1,3 @@
+﻿id_mes,severidade,titulo,detalhe,metrica
+202504,atencao,Calibração do modelo,"Previsto 4.311%, observado 5.921%. O modelo está subestimando o risco em 1.611% no agregado. Isso propaga direto para o valor em reais exibido no painel.",0.01611
+202504,critico,Deriva de população,"6 feature(s) com PSI acima de 0.25: var_salarial_12m, meses_sem_promocao_medio_time, delta_compa_ratio_12m, meses_de_casa_medio_time, compa_ratio_medio_time. A população mudou o suficiente para justificar retreino.",4.4133
